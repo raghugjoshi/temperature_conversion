@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["raghugjoshi123@gmail.com"]
 
   spec.summary       = %q{ Convert from Centigrade to Fahrenheit or vice versa}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/raghugjoshi/temperature_conversion.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
